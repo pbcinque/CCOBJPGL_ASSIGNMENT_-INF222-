@@ -5,13 +5,13 @@ public class exercise1 {
     public static void main(String[] args) throws Exception {
 
         //precondition
-        assert iWillBehave == true : "Hindi nakikinig sa klase";
+        assert iWillBehave == false : "Hindi nakikinig sa klase";
 
         //method
         College();
 
         //postcondition
-        assert IWillGraduate == true : "Kasi hindi nagseseryoso";
+        assert IWillGraduate == false : "Kasi hindi nagseseryoso";
     }
     static void College(){
         IWillGraduate = false;
