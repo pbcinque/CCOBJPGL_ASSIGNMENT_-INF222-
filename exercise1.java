@@ -10,7 +10,7 @@ public class exercise1 {
         //method
         College();
 
-        //poscondition
+        //postcondition
         assert IWillGraduate == true : "Kasi hindi nagseseryoso";
     }
     static void College(){
