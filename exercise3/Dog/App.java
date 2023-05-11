@@ -1,7 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-
-        // Create object from pet class
+        
         Pomsky myPet = new Horgi();
 
         myPet.bark();
