@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-        Pomsky myPet = new Horgi();
+        Horgi myPet = new Horgi();
 
         myPet.bark();
         System.out.println(myPet.eyeColor);
