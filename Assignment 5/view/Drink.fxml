@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="412.0" fitWidth="635.0" layoutX="-16.0" layoutY="-4.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Pictures/wallpapers/513c52804f52bec5a83aa9ee3dd52194.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="169.0" layoutY="4.0" text="My Favorite Drinks" textFill="#a81330">
+         <font>
+            <Font name="Elephant" size="27.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="161.0" fitWidth="107.0" layoutX="22.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Downloads/6d9ec0ca9c402590b1490cbc82bd0571.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="48.0" layoutY="206.0" mnemonicParsing="false" text="Matcha" textFill="#d30d5c" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="241.0" layoutY="54.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Downloads/6e28c103b8de212d11621a310e63f801.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="168.0" fitWidth="118.0" layoutX="458.0" layoutY="35.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Downloads/1f2213a6e23f56b5514c90ba263ea665.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="281.0" layoutY="205.0" mnemonicParsing="false" text="Chai" textFill="#d30d5c" />
+      <Button layoutX="490.0" layoutY="206.0" mnemonicParsing="false" text="Kombucha" textFill="#d30d5c" />
+      <ImageView fitHeight="147.0" fitWidth="90.0" layoutX="382.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Downloads/aae97d012303e32a26e1743a61eed61e.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="147.0" fitWidth="139.0" layoutX="120.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Downloads/e24e40f985488e44e4a8e774030eb010.jpg" />
+         </image>
+      </ImageView>
+      <Button layoutX="266.0" layoutY="291.0" mnemonicParsing="false" text="Sprite" textFill="#d30d5c" />
+      <Button layoutX="489.0" layoutY="289.0" mnemonicParsing="false" text="Wine" textFill="#d30d5c" />
+   </children>
+</AnchorPane>
